@@ -4,7 +4,7 @@ from datetime import datetime
 import pandas as pd
 import plotly.express as px
 
-API_KEY = "1fb1f5ac76a9bb792b126eb7bc29be68"  # Replace with your actual key
+API_KEY = "YOUR_API_KEYS_HERE"  # Replace with your actual key
 
 # Get user IP-based location
 def get_user_location():
